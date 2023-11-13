@@ -11,7 +11,7 @@ A list of awesome papers and cool resources on hypercomplex neural networks.
   - [Others](#others)
 - [Papers](#papers)
   - [Survey](#survey)
-  - [Vison](#vision)
+  - [Computer Vision and Graphics](#vision)
   - [Geometry Deep Learning](#geometry-deep-learning)
   - [Others](#others)
 
