@@ -38,7 +38,7 @@ A list of awesome papers and cool resources on hypercomplex neural networks.
 
 - A Survey of Quaternion Neural Networks [[2020](https://link.springer.com/article/10.1007/s10462-019-09752-1)]
 
-### Vison
+### Computer Vision and Graphics
 - Quaternion Convolutional Neural Networks [[ECCV 2018](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xuanyu_Zhu_Quaternion_Convolutional_Neural_ECCV_2018_paper.pdf)][[Code](https://github.com/XYZ387/QuaternionCNN_Keras)]
 
 - A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers [[ICCV 2019](https://arxiv.org/pdf/1905.12536v4.pdf)][[Code](https://github.com/MIT-SPARK/TEASER-plusplus)]
